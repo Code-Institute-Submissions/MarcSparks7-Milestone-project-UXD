@@ -36,6 +36,7 @@ span {
     background-color: black;
     color: #fafafafa;
     position: absolute;
+    font-size: 15px;
     font-family: "Exo" sans-serif;
     font-weight: 200;
     text-align: right;
