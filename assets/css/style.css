@@ -7,21 +7,18 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 80%;
-    background-color: black;
 
     padding-top: 0;
 }
 
-.nav-bg {
+body {
     background-color: black;
 }
-
 .logo {
     padding-top: 20px;
     padding-right: 20px;
 }
 .nav {
-    background-color:  rgba(0, 0, 0, .25);
     padding-top: 20px;
 }
 
@@ -33,7 +30,6 @@ span {
 }
 
 .contact {
-    background-color: black;
     color: #fafafafa;
     position: absolute;
     font-size: 15px;
