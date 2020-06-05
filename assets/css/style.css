@@ -29,11 +29,7 @@
 /* ------------------------------------------------Nav/Header */
 .spacing {
     background: #c5c4c4;
+    height: 50%;
 }
 
-.container-fluid {
-    margin: 0;
-    padding: 0;
-    min-height: 15%;
-}
 /* ------------------------------------------------Nav/Header */
