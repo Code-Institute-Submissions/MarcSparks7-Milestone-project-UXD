@@ -6,7 +6,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    margin: 10px;
+    margin-top: 5px;
+    padding: 0;
 }
 
 .image2 {
@@ -15,7 +16,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    margin: 10px;
+    margin-top: 5px;
+    padding: 0;
 }
 
 .image3 {
@@ -24,14 +26,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    margin: 10px;
+    margin-top: 5px;
     padding: 0
 }
 /* ------------------------------------------------images */
 
 
 /* ------------------------------------------------Nav/Header */
-.spacing {
+.spacing-color {
     background: #c5c4c4;
 }
 
@@ -41,6 +43,7 @@
 
 .hvr-sweep-to-bottom::before {
     background-color: #c5c4c4;
+    color: #fafafa;
 }
 
 /* ------------------------------------------------Nav/Header */
