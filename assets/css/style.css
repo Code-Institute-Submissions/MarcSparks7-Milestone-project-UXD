@@ -1,87 +1,39 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+/* ------------------------------------------------images */
 
-.img {
-    height: 80vh;
-
+.image1 {
     background: url("../images/lights.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 80%;
-
-    padding-top: 0;
+    background-size: cover;
+    min-height: 360px;
 }
 
-body {
-    background: black;
-}
-.logo {
-    padding-top: 20px;
-    padding-right: 20px;
-}
-.nav {
-    padding-top: 20px;
+.image2 {
+    background: url("../images/lights.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
 }
 
-.nav-push {
-    padding-bottom: 10%;
+.image3 {
+    background: url("../images/lights.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
+/* ------------------------------------------------images */
+
+
+/* ------------------------------------------------Nav/Header */
+.spacing {
+    background: #c5c4c4;
 }
 
-span {
-    font-size: 20px;
-    font-family: "Exo" sans-serif;
-    font-weight: bold;
-    color: #fafafafa;
-}
-
-.contact {
-    color: #fafafafa;
-    padding-top: 50px;
-    position: absolute;
-    font-size: 12px;
-    font-family: "Roboto" sans-serif;
-    font-weight: 100;
-    text-align: right;
-}
-
-.social {
-    font-size: 15px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 15px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafafa;
-}
-
-label {
-    color: #fafafa;
-}
-
-form {
-    padding-top: 10%;
-}
-
-.contact-form {
-    font-weight: 700;
-    color: #fafafa;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-.event-items li {
-    padding-top: 10%;
-    max-width: 120px;
-    background: #fafafa;
-    color:black;
-    padding: 10px, 0;
+.container-fluid {
     margin: 0;
-    font-size: 20px;
-    font-family: "Roboto" sans-serif;
-    font-weight: 500;
-    list-style-type: none;   
+    padding: 0;
+    min-height: 15%;
 }
+/* ------------------------------------------------Nav/Header */
