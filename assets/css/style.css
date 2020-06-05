@@ -39,8 +39,8 @@
     color: rgb(247, 96, 121);
 }
 
-.hvr-sweep-to-bottom {
-    color: #c5c4c4;
+.hvr-sweep-to-bottom::before {
+    background-color: #c5c4c4;
 }
 
 /* ------------------------------------------------Nav/Header */
