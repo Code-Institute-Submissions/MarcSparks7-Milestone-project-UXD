@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+    margin: 10px;
 }
 
 .image2 {
@@ -14,6 +15,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+    margin: 10px;
 }
 
 .image3 {
@@ -22,6 +24,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+    margin: 10px;
+    padding: 0
 }
 /* ------------------------------------------------images */
 
@@ -29,6 +33,14 @@
 /* ------------------------------------------------Nav/Header */
 .spacing {
     background: #c5c4c4;
+}
+
+.nav-color {
+    color: rgb(247, 96, 121);
+}
+
+.hvr-sweep-to-bottom {
+    color: #c5c4c4;
 }
 
 /* ------------------------------------------------Nav/Header */
