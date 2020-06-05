@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 .img {
-    height: 83.5vh;
+    height: 80vh;
 
     background: url("../images/lights.jpg");
     background-position: center;
@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: black;
+    background: black;
 }
 .logo {
     padding-top: 20px;
@@ -20,6 +20,10 @@ body {
 }
 .nav {
     padding-top: 20px;
+}
+
+.nav-push {
+    padding-bottom: 10%;
 }
 
 span {
@@ -31,10 +35,25 @@ span {
 
 .contact {
     color: #fafafafa;
+    padding-top: 50px;
     position: absolute;
-    font-size: 15px;
-    font-family: "Exo" sans-serif;
-    font-weight: 200;
+    font-size: 12px;
+    font-family: "Roboto" sans-serif;
+    font-weight: 100;
     text-align: right;
-    height: 91px;
+}
+
+.social {
+    font-size: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 15px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafafa;
 }
