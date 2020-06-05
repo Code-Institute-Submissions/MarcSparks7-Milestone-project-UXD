@@ -57,3 +57,18 @@ span {
     text-align: center;
     color: #fafafafa;
 }
+
+label {
+    color: #fafafa;
+}
+
+form {
+    padding-top: 10%;
+}
+
+.contact-form {
+    font-weight: 700;
+    color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+}
