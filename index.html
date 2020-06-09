@@ -3,45 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css">
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>DJ Corp</title>
 </head>
 <body>
-    <header>
+
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 spacing-color" style="height: 20px">
                 </div>
             </div>
         </div>
-    </header>
-        <div class="container-fluid">
-            <div class="row no-gutters">
-                <div class="col-12">
 
-                        <ul id="nav" class="list-inline menucontainer">
-                            <li class="col-lg-2 col-md-2 col-sm-2 list-inline-item menuitem">
-                                <div>
-                                     <img src="assets/images/logo.jpg" class="rounded-circle mr-3" height=100 width=100>
-                                </div>
-                            </li>
-                            <li class="col-lg-1 col-md-1 col-sm-1 list-inline-item menuitem">
-                                <a href="index.html"><span class="nav-color">Home</span></a>
-                            </li>
-                            <li class="col-lg-1 col-md-1 col-sm-1 menu-color-about list-inline-item menuitem">
-                                <a href="resume.html"><span class="nav-color">Services</span></a>
-                            </li>
-                            <li class="col-lg-1 col-md-1 col-sm-1 menu-color-contact list-inline-item menuitem">
-                                <a href="contact.html"><span class="nav-color">Contact</span></a>
-                            </li>
-                        </ul>
-
+    <nav class="navbar navbar-expand-sm navbar-light bg-light">
+        <img src="assets/images/logo.jpg" height=100 width=100>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Services
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="Wedding.html">Weddings</a>
+                    <a class="dropdown-item" href="Parties.html">Parties</a>
+                    <a class="dropdown-item" href="venues.html">Venues</a>
+                    <a class="dropdown-item" href="fashionshows.html">fashionShows</a>
                 </div>
-            </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+            </ul>
         </div>
+    </nav>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 spacing-color" style="height: 100px"></div>

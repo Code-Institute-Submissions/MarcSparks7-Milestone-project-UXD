@@ -76,15 +76,9 @@
 
 .nav-color {
     color: rgb(247, 96, 121);
+    font-family: "Roboto" sans-serif;
+    font-weight: 700;
 }
-
-.navbar-brand {
-    color: #eb8108;
-    font-family: "Exo" sans-serif;
-    font-weight: 600;
-    font-size: 25px;
-}
-
 /* ------------------------------------------------Nav/Header */
 
 /* ------------------------------------------------Quotes */
@@ -98,7 +92,7 @@
 }
 
 .blockquote-orange {
-    color: black;
+    color: #fafafa;
     font-family: "Exo" sans-serif;
     font-weight: 600;
     font-size: 20px;
