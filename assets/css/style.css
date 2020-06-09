@@ -47,9 +47,7 @@
 
 /* ------------------------------------------------Nav/Header */
 
-ul {
 
-}
 .spacing-color {
     background: #c5c4c4;
 }
@@ -58,9 +56,10 @@ ul {
     color: rgb(247, 96, 121);
 }
 
-.hvr-sweep-to-bottom::before {
-    background-color: #c5c4c4;
-    color: #fafafa;
+.navbar-brand {
+    color: orange;
+    font-family: "Exo" sans-serif;
+    font-weight: 600;
 }
 
 /* ------------------------------------------------Nav/Header */
@@ -69,6 +68,9 @@ ul {
 .text-uppercase {
     color: rgb(247, 96, 121);
     text-align: center;
+    margin-top: 20px;
+    text-decoration-line: underline;
+    font-weight: 400;
 }
 
 .blockquote {
