@@ -19,6 +19,14 @@
 }
 
 .image3 {
+    background: url("../images/kids.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 260px;
+}
+
+.image4 {
     background: url("https://cdn.digitaldjtips.com/app/uploads/2019/12/04111906/kids_disco-1204x640.jpg");
     background-position: center;
     background-repeat: no-repeat;
