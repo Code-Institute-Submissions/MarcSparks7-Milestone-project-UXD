@@ -116,11 +116,14 @@
     font-family: "Roboto" sans-serif;
     font-weight: 200;
     font-size: 13px;
+    text-align: right;
+    padding-top: 60px;
 }
 
-.footer-text-phone {
-    text-align: justify;
+.footer-text p {
+    margin: 0;
 }
+
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -134,11 +137,11 @@
 }
 
 .social-links {
-    padding-top: 5%;
+    padding-top: 20px;
 }
 /* ------------------------------------------------Footer */
 
-/* ------------------------------------------------Wedding */
+/* ------------------------------------------------Wedding HTML */
 .wedding-container {
     padding-top: 10%;
 }
@@ -166,4 +169,4 @@
     list-style: none;
 }
 
-/* ------------------------------------------------Wedding */
+/* ------------------------------------------------Wedding HTML */
