@@ -48,15 +48,15 @@
     padding: 0 20px;
     position: absolute;
     top: -100%;
-    color: #fafafa;
+    color: #eb8108;
     left: 0;
     z-index: 2;
     transition: 1s;
-    font-family: "Exo" sans-serif
+    font-family: "Exo" sans-serif;
 }
 
 .card:hover .card-text {
-    top: 80px;
+    top: 50px;
 }
 
 .card {
@@ -79,7 +79,7 @@
 }
 
 .navbar-brand {
-    color: orange;
+    color: #eb8108;
     font-family: "Exo" sans-serif;
     font-weight: 600;
     font-size: 25px;
@@ -89,7 +89,7 @@
 
 /* ------------------------------------------------Quotes */
 .text-uppercase {
-    color: rgb(247, 96, 121);
+    color: #141313b4;
     text-align: center;
     margin-top: 20px;
     text-decoration-line: underline;
@@ -127,4 +127,44 @@
     text-align: center;
     color: #fafafafa;
     background: #8f8f8f8f;
-    /* ------------------------------------------------Footer */
+}
+
+.social-links {
+    padding-top: 5%;
+}
+/* ------------------------------------------------Footer */
+
+/* ------------------------------------------------Wedding */
+.wedding-container {
+    padding-top: 10%;
+}
+
+.Wedding-header {
+    color: #eb8108;
+    font-family: "Exo" sans-serif;
+    font-size: 40px;
+}
+
+.wedding {
+    font-family: "Roboto" sans-serif;
+    color: rgb(247, 96, 121);
+}
+
+.wedding-header {
+    color: #eb8108;
+    font-family: "Exo" sans-serif;
+}
+
+.wedding-list li {
+    color: rgb(247, 96, 121);
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    list-style: none;
+}
+
+.wedding-bg {
+    background: #fdfdfd8f;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+/* ------------------------------------------------Wedding */
