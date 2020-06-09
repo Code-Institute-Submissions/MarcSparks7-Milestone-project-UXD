@@ -74,16 +74,26 @@
     background: #c5c4c4;
 }
 
-.nav-color {
+.dropdown-item {
     color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
     font-weight: 700;
+}
+
+.nav-color {
+    color: rgb(247, 96, 121);
+    font-family: "Roboto" sans-serif;
+    font-weight: 700; 
+}
+
+.dropdown-menu {
+    border: 0;
 }
 /* ------------------------------------------------Nav/Header */
 
 /* ------------------------------------------------Quotes */
 .text-uppercase {
-    color: #141313b4;
+    color: rgb(247, 96, 121);
     text-align: center;
     margin-top: 20px;
     text-decoration-line: underline;
@@ -91,18 +101,9 @@
     font-family: "Roboto" sans-serif;
 }
 
-.blockquote-orange {
+.blockquote {
     color: #fafafa;
     font-family: "Exo" sans-serif;
-    font-weight: 600;
-    font-size: 20px;
-}
-
-.blockquote-pink {
-    color: #fafafa;
-    font-family: "Exo" sans-serif;
-    font-weight: 600;
-    font-size: 20px;
 } 
 
 
