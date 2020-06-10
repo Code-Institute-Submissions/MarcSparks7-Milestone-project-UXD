@@ -56,7 +56,7 @@
 }
 
 .card:hover .card-text {
-    top: 50px;
+    top: 10px;
 }
 
 .card {
@@ -170,3 +170,29 @@
 }
 
 /* ------------------------------------------------Wedding HTML */
+
+/* ------------------------------------------------Venue HTML */
+.venue-container {
+    padding-top: 10%;
+}
+
+.venue-header {
+    color: #eb8108;
+    font-family: "Exo" sans-serif;
+    font-size: 40px;
+}
+
+.venue {
+    font-family: "Roboto" sans-serif;
+    color: rgb(247, 96, 121);
+}
+
+.venue-header {
+    color: #eb8108;
+    font-family: "Exo" sans-serif;
+}
+
+.contact-link {
+    color: #eb8108;
+}
+/* ------------------------------------------------Venue HTML */
