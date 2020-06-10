@@ -42,7 +42,7 @@
     background-size: cover;
     min-height: 520px;
 }
-
+/* ------------------------------------------------idea taken from google searches and youtube */
 .card-text {
     width: 100%;
     padding: 0 20px;
@@ -51,14 +51,14 @@
     color: #eb8108;
     left: 0;
     z-index: 2;
-    transition: 1s;
+    transition: 0.5s;
     font-family: "Exo" sans-serif;
 }
 
 .card:hover .card-text {
     top: 10px;
 }
-
+/* ------------------------------------------------idea taken from google searches and youtube */
 .card {
     position: relative;
     overflow: hidden;
@@ -89,6 +89,9 @@
     font-weight: 700;
 }
 
+.navbar-nav {
+    font-size: 22px;
+}
 .nav-color {
     color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
@@ -198,11 +201,13 @@
 }
 
 .venue {
+    font-size: 20px;
     font-family: "Roboto" sans-serif;
     color: rgb(247, 96, 121);
 }
 
 .venue-header {
+    text-align: left;
     color: #eb8108;
     font-family: "Exo" sans-serif;
 }
