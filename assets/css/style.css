@@ -40,7 +40,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 520px;
 }
 
 .card-text {
@@ -64,6 +64,15 @@
     overflow: hidden;
     box-shadow: 5px 5px 5px 5px grey;
 }
+
+.image5-add {
+    background: url("../images/VinylGrey.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 450px;
+    opacity: 0.6; 
+}
 /* ------------------------------------------------images */
 
 
@@ -84,6 +93,10 @@
     color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
     font-weight: 700; 
+}
+
+.nav-color:hover {
+    color: #eb8108;
 }
 
 .dropdown-menu {
@@ -208,6 +221,8 @@
 .btn-warning {
     background: rgb(247, 96, 121);
     color: #fafafa;
+    border: 0;
+    margin-top: 10px;
 }
 
 .btn-warning:hover {
