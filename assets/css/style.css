@@ -120,11 +120,13 @@
 .blockquote {
     color: #fafafa;
     font-family: "Exo" sans-serif;
+    font-weight: 500;
 } 
 
 .media {
     padding: 60px;
 }
+
 /* ------------------------------------------------Quotes (idea taken from whiskey mini project)*/
 
 /* ------------------------------------------------Footer */
