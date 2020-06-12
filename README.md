@@ -1,22 +1,29 @@
 DJ CORP (A DJ booking website)
+
 The Dj corp site is designed to be minamlist and ery user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.
 
 UX
+
 This site is for people looking for a DJ for a number of different reasons. What users should be able to achieve by visiting this site is seeing what services the company offers and reasurrance from previous customers about how the DJs preformed.
 I think my site is the best way for people to achieve what they are looking for becuase its clean easily navigatable and provides enough information that people should be compelled to ask for pricing.
 
+User Stories
+
 Bride to Be - Needs an after band DJ hears from a friend about this company called DJ corp. Google searches the name and gets presented with this site. On the landing page see the picture of the couple kissing scrolls over it and sees that it is a link and then the word weedings come down. Before clicking it she reades the first quote under the picture. After clicing on the picture she gets brought to a page with what the company offers for weddings, she gets enough ideas from the list that she wants to contact the company directly. She goes to the contact page and fills in the form along with the comment section asking for specfics.
+
+Features
 
 Customer Feedback - This should give reasurrance to new clients who visit the page.
 Contact Page - This will let the client reach out to the company to find out more and book a DJ for their event
 Landing Page - Each Picture is a link with a clear visual representation of what the kind of events the compnay cater for.
 Each Section (weddings birthdays, Venues and Fashion shows) - should provide a short written description of what the company offers
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Future ideas 
+1. Live calender to the company and what dates they have DJ's Avaliable. When I have more knowledge in other languages I will look to implament this.
+2. A profile page where you can see each Dj the comapny hires out to clients, past experiences and some comments from other clients.
 
-Features Left to Implement
-Another feature idea
 Technologies Used
+
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
