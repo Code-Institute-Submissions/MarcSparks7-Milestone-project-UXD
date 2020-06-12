@@ -1,23 +1,16 @@
-DJ CORP
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+DJ CORP (A DJ booking website)
+The Dj corp site is designed to be minamlist and ery user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.
 
 UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This site is for people looking for a DJ for a number of different reasons. What users should be able to achieve by visiting this site is seeing what services the company offers and reasurrance from previous customers about how the DJs preformed.
+I think my site is the best way for people to achieve what they are looking for becuase its clean easily navigatable and provides enough information that people should be compelled to ask for pricing.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+Bride to Be - Needs an after band DJ hears from a friend about this company called DJ corp. Google searches the name and gets presented with this site. On the landing page see the picture of the couple kissing scrolls over it and sees that it is a link and then the word weedings come down. Before clicking it she reades the first quote under the picture. After clicing on the picture she gets brought to a page with what the company offers for weddings, she gets enough ideas from the list that she wants to contact the company directly. She goes to the contact page and fills in the form along with the comment section asking for specfics.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Customer Feedback - This should give reasurrance to new clients who visit the page.
+Contact Page - This will let the client reach out to the company to find out more and book a DJ for their event
+Landing Page - Each Picture is a link with a clear visual representation of what the kind of events the compnay cater for.
+Each Section (weddings birthdays, Venues and Fashion shows) - should provide a short written description of what the company offers
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
