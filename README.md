@@ -1,65 +1,72 @@
-DJ CORP
-One or two paragraphs providing an overview of your project.
+#DJ CORP (A DJ booking website)#
 
-Essentially, this part is your sales pitch.
+The Dj corp site is designed to be minamlist and ery user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.
 
 UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+This site is for people looking for a DJ for a number of different reasons. What users should be able to achieve by visiting this site is seeing what services the company offers and reasurrance from previous customers about how the DJs preformed.
+I think my site is the best way for people to achieve what they are looking for becuase its clean, easily navigatable and provides enough information that people should be compelled to ask for pricing. I choose the color screen of white, grey, pink and orange as the pink and orange pops from the screen in contrast to the grey and white drawing the eye to the text. 
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+User Stories
+
+Bride to Be - Needs an after band DJ hears from a friend about this company called DJ corp. Google searches the name and gets presented with this site. On the landing page see the picture of the couple kissing scrolls over it and sees that it is a link and then the word weedings come down. Before clicking it she reades the first quote under the picture. After clicing on the picture she gets brought to a page with what the company offers for weddings, she gets enough ideas from the list that she wants to contact the company directly. She goes to the contact page and fills in the form along with the comment section asking for specfics.
+
+Bar owner - hears from one of his friends that there is a DJ company who they recently hired for one of their "Gigs" who blew them away.
+Owners asks for the name of the company and googles the name on his phone. Comes up with DJ and is instantaly met with pictures and reviews. Hitting the hamburger option on the top of the screen he selects services and then venues. After going throught the text he is met with the click "Here" link which takes him to the contact page. He fills in the form and gives a brief description of what he is looking for.
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Customer Feedback - This should give reasurrance to new clients who visit the page.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Contact Page - This will let the client reach out to the company to find out more and book a DJ for their event
 
-Features Left to Implement
-Another feature idea
+Landing Page - Each Picture is a link with a clear visual representation of what the kind of events the compnay cater for.
+
+Each Section (weddings birthdays, Venues and Fashion shows) - should provide a short written description of what the company offers
+
+Future ideas 
+
+1. Live calender to the company and what dates they have DJ's Avaliable. When I have more knowledge in other languages I will look to implament this.
+
+2. A profile page where you can see each Dj the comapny hires out to clients, past experiences and some comments from other clients.
+
 Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+Wireframes - Balsamiq Wireframes. https://balsamiq.com/wireframes/desktop/
+
+Font Awesome - used for Icons such as in the wedding section of the website. https://fontawesome.com/
+
+Bootstrap - used for styling website through-out https://getbootstrap.com/
+
+JavaScript CDN - used for collapse of navbar and hamburger icon on mobile. https://cdnjs.com/
+
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+UX on mobile - while creating the website I constantly checked each change by using the inspect element of the web browser and selcting a mobile type. This often brought to light simple changes needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. Whle testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Landing page 
 
-Contact form:
-Go to the "Contact Us" page
+On desktop, when hovering over the pictures on the landing page I found the writing drop down was too slow for users to see in time and then changed the timing from 1sec to 0.5 sec.
+
+Contact form 
+
 Try to submit the empty form and verify that an error message about the required fields appears
 Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Peronal testing
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Asked friends to go through the website and see how they feel it works. Users indicated that the writing on the landing page was difficult to read with the background image and this prompted the edit of it.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+Commiting every few lines of code. Pushing the code to Github at the end of each writing session. 
+Currently the deployed version is the finsihed verion.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+
+All Photos were taken from the website https://unsplash.com/ some of these photos were edited by myself to suit the website with Gimp Photo editor.
+
+The quote section was an idea taken from the whiskey mini project.
+
+I received inspiration for this project from a friend of mine who is a DJ.
