@@ -1,4 +1,4 @@
-DJ CORP (A DJ booking website)
+#DJ CORP (A DJ booking website)
 
 The Dj corp site is designed to be minamlist and ery user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.
 
@@ -38,11 +38,15 @@ Font Awesome - used for Icons such as in the wedding section of the website. htt
 
 Bootstrap - used for styling website through-out https://getbootstrap.com/
 
-JavaScript CDN - used for collapse of navbar and hamburger icon on mobile.
+JavaScript CDN - used for collapse of navbar and hamburger icon on mobile. https://cdnjs.com/
 
 Testing
 
 UX on mobile - while creating the website I constantly checked each change by using the inspect element of the web browser and selcting a mobile type. This often brought to light simple changes needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. Whle testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
+
+Landing page 
+
+On desktop, when hovering over the pictures on the landing page I found the writing drop down was too slow for users to see in time and then changed the timing from 1sec to 0.5 sec.
 
 Contact form 
 
@@ -54,19 +58,15 @@ Peronal testing
 Asked friends to go through the website and see how they feel it works. Users indicated that the writing on the landing page was difficult to read with the background image and this prompted the edit of it.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+Commiting every few lines of code. Pushing the code to Github at the end of each writing session. 
+Currently the deployed version is the finsihed verion.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+
+All Photos were taken from the website https://unsplash.com/ some of these photos were edited by myself to suit the website with Gimp Photo editor.
+
+The quote section was an idea taken from the whiskey mini project.
+
+I received inspiration for this project from a friend of mine who is a DJ.
