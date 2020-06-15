@@ -1,4 +1,4 @@
-#DJ CORP (A DJ booking website)#
+DJ CORP (A DJ booking website)
 
 The Dj corp site is designed to be minamlist and ery user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.
 
