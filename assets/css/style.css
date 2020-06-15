@@ -86,7 +86,7 @@
 .dropdown-item {
     color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .navbar-nav {
@@ -95,7 +95,7 @@
 .nav-color {
     color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
-    font-weight: 700; 
+    font-weight: 600; 
 }
 
 .nav-color:hover {
@@ -183,11 +183,15 @@
 }
 
 .wedding-list li {
-    color: rgb(247, 96, 121);
     font-family: "Roboto" sans-serif;
-    font-weight: 700;
     font-size: 16px;
     list-style: none;
+    padding-left: 12px;
+}
+
+.wedding-list i {
+    color: rgb(247, 96, 121);
+    font-size: 18px;
 }
 
 /* ------------------------------------------------Wedding HTML */
