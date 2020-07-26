@@ -12,13 +12,13 @@ I think my site is the best way for people to achieve what they are looking for 
 ### First Time User
 a. I want to easily see which sections apply to me.
 
-b. I want to be able to navigate through the website easly.
+b. I want to be able to navigate through the website easily.
 
-c. I want to be know what services are on offer.
+c. I want to know what services are on offer.
 
 d. I want to be able to see what past users of this company thought of the experience.
 
-e. I want to know how to contact the business to discuss needs and avaliabilty.
+e. I want to know how to contact the business to discuss needs and availability.
 
 ### Returning User
 a. I want to see any updated testimonials
@@ -44,7 +44,7 @@ c. I want to be able to contact to book/ contact for another date.
 
 1. Live calendar to the company and what dates they have DJ's Available. When I have more knowledge in other languages I will look to implement this.
 
-2. A profile page where you can see each Dj the comapny hires out to clients, past experiences and some comments from other clients.
+2. A profile page where you can see each Dj the company hires out to clients, past experiences and some comments from other clients.
 
 ## Technologies Used
 
@@ -70,42 +70,45 @@ the W3C validator was used to check for any errors in my css code. Errors were f
 ## First Time User
 
 
- i.I want to easily see which sections apply to me.
+ ###.I want to easily see which sections apply to me.
 
-a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built in hover text drop downs as you scroll over them to understand what the picture represent.
+a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built-in hover text drop downs as you scroll over them to understand what the picture represents.
 
 b.The main points are easily understood with the images.
 
 c.The user has two options, either use the navigation bar or click on one of the images.
 
- ii.I want to be able to navigate through the website easly.
+ ###.I want to be able to navigate through the website easily.
 
-a.The site has been designed to be very visually appealing however not dissctracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
+a.The site has been designed to be very visually appealing however not distracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
 	
- iii.I want to be know what services are on offer.
+ ###.I want to know what services are on offer.
 
-a.Once the user uses one of the relavant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
+a.Once the user uses one of the relevant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
 
-b.Each page should have a small amount of description discribing the service for their needs.
+b.Each page should have a small amount of description describing the service for their needs.
 
 c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
 
- iv.I want to be able to see what past users of this company thought of the experience.
+ ###.I want to be able to see what past users of this company thought of the experience.
 
-a.On the Home Page the user can see previous testimonals from past clients.
+a.On the Home Page the user can see previous testimonials from past clients.
 
- v.I want to know how to contact the business to discuss needs and avaliabilty.
-	a.Within the navigation bar there is a link to the contact page so users can contact the business.
-	b.On each other page of the website there is a HERE link to bring them to the contact page clearly visible.
-	c.Within the footer of each page there is a mailto link and contact phone number.
+ ###.I want to know how to contact the business to discuss needs and availability.
+ 
+a.Within the navigation bar there is a link to the contact page so users can contact the business.
+
+b.On each other page of the website, there is a HERE link to bring them to the contact page clearly visible.
+
+c.Within the footer of each page, there is a mailto link and contact phone number.
 
 ## Returning Users
 
- i.I want to see any updated testimonials
+ ###.I want to see any updated testimonials
 
 a.These are clearly visible on the home screen of the website.
 
- ii.I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
+ .I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
 
 a.The navigation bar clearly highlights the "Contact" Page.
 
@@ -125,7 +128,7 @@ e.The email button is set up to automatically open up your email app and autofil
 - Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
 
 ### UX on mobile 
-- Simple changes were needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. Whle testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
+- Simple changes were needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. While testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
 
 ### Landing page 
 
@@ -141,7 +144,7 @@ GitHub Pages
 - The project was deployed to GitHub Pages using the following steps...
 
 1.Log in to GitHub and locate the GitHub Repository
-2.At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+2.At the top of the Repository (not top of page), locate the "Settings" button on the menu.
 3.Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4.Under "Source", click the dropdown called "None" and select "Master Branch".
 5.The page will automatically refresh.
