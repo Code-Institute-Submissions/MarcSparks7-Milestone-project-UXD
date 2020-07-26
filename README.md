@@ -2,6 +2,8 @@
 
 *The Dj corp site is designed to be minimalist and very user friendly with everything directing the user back to the contact page to get in touch about what is on offer and pricing for personal needs.*
 
+<img src="assets/images/dj.png">
+
 ## UX
 
 This site is for people looking for a DJ for a number of different reasons. What users should be able to achieve by visiting this site is seeing what services the company offers and reassurance from previous customers about how the DJs performed.
