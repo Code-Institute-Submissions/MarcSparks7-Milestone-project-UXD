@@ -10,16 +10,16 @@ I think my site is the best way for people to achieve what they are looking for 
 ## User Stories
 
 ### First Time User
-	a. I want to easily see which sections apply to me.
-	b. I want to be able to navigate through the website easly.
-	c. I want to be know what services are on offer.
-	d. I want to be able to see what past users of this company thought of the experience.
-	e. I want to know how to contact the business to discuss needs and avaliabilty.
+a. I want to easily see which sections apply to me.
+b. I want to be able to navigate through the website easly.
+c. I want to be know what services are on offer.
+d. I want to be able to see what past users of this company thought of the experience.
+e. I want to know how to contact the business to discuss needs and avaliabilty.
 
 ### Returning User
-	a. I want to see any updated testimonials
-	b. I want to be able to leave feedback from my experience with dealing with the company.
-	c. I want to be able to contact to book/ contact for another date.
+a. I want to see any updated testimonials
+b. I want to be able to leave feedback from my experience with dealing with the company.
+c. I want to be able to contact to book/ contact for another date.
 
 ## Features
 
@@ -64,22 +64,22 @@ the W3C validator was used to check for any errors in my css code. Errors were f
 
  i.I want to easily see which sections apply to me.
 
-	a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built in hover text drop downs as you scroll over them to understand what the picture represent.
-	b.The main points are easily understood with the images
-	c.The user has two options, either use the navigation bar or click on one of the images.
+a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built in hover text drop downs as you scroll over them to understand what the picture represent.
+b.The main points are easily understood with the images
+c.The user has two options, either use the navigation bar or click on one of the images.
  ii.I want to be able to navigate through the website easly.
 
-	a.The site has been designed to be very visually appealing however not dissctracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
+a.The site has been designed to be very visually appealing however not dissctracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
 	
  iii.I want to be know what services are on offer.
 
-	a.Once the user uses one of the relavant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
-	b.Each page should have a small amount of description discribing the service for their needs.
-	c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
+a.Once the user uses one of the relavant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
+b.Each page should have a small amount of description discribing the service for their needs.
+c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
 
  iv.I want to be able to see what past users of this company thought of the experience.
 
-	a.On the Home Page the user can see previous testimonals from past clients.
+a.On the Home Page the user can see previous testimonals from past clients.
 
  v.I want to know how to contact the business to discuss needs and avaliabilty.
 	a.Within the navigation bar there is a link to the contact page so users can contact the business.
@@ -90,15 +90,15 @@ the W3C validator was used to check for any errors in my css code. Errors were f
 
  i.I want to see any updated testimonials
 
-	a.These are clearly visible on the home screen of the website.
+a.These are clearly visible on the home screen of the website.
 
  ii.I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
 
-	a.The navigation bar clearly highlights the "Contact" Page.
-	b.Here they can fill out the form on the page and let the company know anything they wish.
-	c.The footer contains links to Facebook, Twitter and Instagram page as well as the organization's email.
-	d.Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-	e.The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+a.The navigation bar clearly highlights the "Contact" Page.
+b.Here they can fill out the form on the page and let the company know anything they wish.
+c.The footer contains links to Facebook, Twitter and Instagram page as well as the organization's email.
+d.Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+e.The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
 ##Additional Testing
 
