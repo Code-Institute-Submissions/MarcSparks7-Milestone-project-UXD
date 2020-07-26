@@ -9,12 +9,17 @@ I think my site is the best way for people to achieve what they are looking for 
 
 ## User Stories
 
-### Bride to Be 
-- Needs an after band DJ hears from a friend about this company called DJ corp. Google searches the name and gets presented with this site. On the landing page see the picture of the couple kissing scrolls over it and sees that it is a link and then the word weedings come down. Before clicking it she reads the first quote under the picture. After clicking on the picture she gets brought to a page with what the company offers for weddings, she gets enough ideas from the list that she wants to contact the company directly. She goes to the contact page and fills in the form along with the comment section asking for specifics.
+### First Time User
+	a. I want to easily see which sections apply to me.
+	b. I want to be able to navigate through the website easly.
+	c. I want to be know what services are on offer.
+	d. I want to be able to see what past users of this company thought of the experience.
+	e. I want to know how to contact the business to discuss needs and avaliabilty.
 
-### Bar owner 
-- hears from one of his friends that there is a DJ company who they recently hired for one of their "Gigs" who blew them away.
-Owners asks for the name of the company and googles the name on his phone. Comes up with DJ Corp and is instantly met with pictures and reviews. Hitting the hamburger option on the top of the screen he selects services and then venues. After going through the text he is met with the click "Here" link which takes him to the contact page. He fills in the form and gives a brief description of what he is looking for.
+### Returning User
+	a. I want to see any updated testimonials
+	b. I want to be able to leave feedback from my experience with dealing with the company.
+	c. I want to be able to contact to book/ contact for another date.
 
 ## Features
 
@@ -37,22 +42,73 @@ Owners asks for the name of the company and googles the name on his phone. Comes
 
 ## Technologies Used
 
-### Wireframes 
-- Balsamiq Wireframes. https://balsamiq.com/wireframes/desktop/
+### <a href="https://balsamiq.com/wireframes/desktop/" target="_blank">Wireframes</a>
+- Balsamiq Wireframes.
 
-### Font Awesome 
-- used for Icons such as in the wedding section of the website. https://fontawesome.com/
+### <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
+- used for Icons such as in the wedding section of the website.
 
-### Bootstrap 
-- used for styling website through-out https://getbootstrap.com/
+### <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>
+- used for styling website through-out 
 
-### JavaScript CDN 
-- used for collapse of navbar and hamburger icon on mobile. https://cdnjs.com/
+### <a href="https://cdnjs.com/" target="_blank">JavaScript CDN</a>
+- used for collapse of navbar and hamburger icon on mobile.
 
 ## Testing
 
+the W3C validator was used to check for any errors in my css code. Errors were found however they are relating to the fact that I have imported google fonts and could not validate external sources.
+
+- <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">W3C Markup Validator</a>
+
+##First Time User
+
+ i.I want to easily see which sections apply to me.
+
+	a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built in hover text drop downs as you scroll over them to understand what the picture represent.
+	b.The main points are easily understood with the images
+	c.The user has two options, either use the navigation bar or click on one of the images.
+ ii.I want to be able to navigate through the website easly.
+
+	a.The site has been designed to be very visually appealing however not dissctracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
+	
+ iii.I want to be know what services are on offer.
+
+	a.Once the user uses one of the relavant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
+	b.Each page should have a small amount of description discribing the service for their needs.
+	c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
+
+ iv.I want to be able to see what past users of this company thought of the experience.
+
+	a.On the Home Page the user can see previous testimonals from past clients.
+
+ v.I want to know how to contact the business to discuss needs and avaliabilty.
+	a.Within the navigation bar there is a link to the contact page so users can contact the business.
+	b.On each other page of the website there is a HERE link to bring them to the contact page clearly visible.
+	c.Within the footer of each page there is a mailto link and contact phone number.
+
+##Returning Users
+
+ i.I want to see any updated testimonials
+
+	a.These are clearly visible on the home screen of the website.
+
+ ii.I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
+
+	a.The navigation bar clearly highlights the "Contact" Page.
+	b.Here they can fill out the form on the page and let the company know anything they wish.
+	c.The footer contains links to Facebook, Twitter and Instagram page as well as the organization's email.
+	d.Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+	e.The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+
+##Additional Testing
+
+- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone.
+- A large amount of testing was done to ensure that all pages were linking correctly.
+- Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
+
 ### UX on mobile 
-- while creating the website I constantly checked each change by using the inspect element of the web browser and selecting a mobile type. This often brought to light simple changes needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. Whle testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
+- Simple changes were needed to be made for mobile users so that the information was more appealing on a mobile device. e.g removing the profile pictures from the quotes on the landing page. Whle testing I found that I had to edit the image I used for the quote section as the white writing got lost in the image. 
 
 ### Landing page 
 
@@ -61,16 +117,21 @@ Owners asks for the name of the company and googles the name on his phone. Comes
 ### Contact form 
 
 - Try to submit the empty form and verify that an error message about the required fields appears.
-Try to submit the form with an invalid email address and verify that a relevant error message appears.
-
-## Personal testing
-
-- Asked friends to go through the website and see how they feel it works. Users indicated that the writing on the landing page was difficult to read with the background image and this prompted the edit of it.
 
 ## Deployment
 
-- Committing every few lines of code. Pushing the code to Github at the end of each writing session. 
-Currently, the deployed version is the finished version.
+GitHub Pages
+- The project was deployed to GitHub Pages using the following steps...
+
+1.Log in to GitHub and locate the GitHub Repository
+2.At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3.Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4.Under "Source", click the dropdown called "None" and select "Master Branch".
+5.The page will automatically refresh.
+6.Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+- Committing every few lines of code. 
+- Pushing the code to Github at the end of each writing session. 
 
 
 ## Credits
