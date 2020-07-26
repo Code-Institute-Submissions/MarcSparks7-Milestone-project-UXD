@@ -90,11 +90,11 @@ b.Each page should have a small amount of description describing the service for
 
 c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
 
- ###.I want to be able to see what past users of this company thought of the experience.
+ ### I want to be able to see what past users of this company thought of the experience.
 
 a.On the Home Page the user can see previous testimonials from past clients.
 
- ###.I want to know how to contact the business to discuss needs and availability.
+ ### I want to know how to contact the business to discuss needs and availability.
  
 a.Within the navigation bar there is a link to the contact page so users can contact the business.
 
