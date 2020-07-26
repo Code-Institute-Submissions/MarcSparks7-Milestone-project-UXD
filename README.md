@@ -110,7 +110,7 @@ c.Within the footer of each page, there is a mailto link and contact phone numbe
 
 a.These are clearly visible on the home screen of the website.
 
- .I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
+ ### I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
 
 a.The navigation bar clearly highlights the "Contact" Page.
 
