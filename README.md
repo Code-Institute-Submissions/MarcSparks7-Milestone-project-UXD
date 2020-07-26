@@ -70,7 +70,7 @@ the W3C validator was used to check for any errors in my css code. Errors were f
 ## First Time User
 
 
- ###.I want to easily see which sections apply to me.
+ ### I want to easily see which sections apply to me.
 
 a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built-in hover text drop downs as you scroll over them to understand what the picture represents.
 
@@ -78,11 +78,11 @@ b.The main points are easily understood with the images.
 
 c.The user has two options, either use the navigation bar or click on one of the images.
 
- ###.I want to be able to navigate through the website easily.
+ ### I want to be able to navigate through the website easily.
 
 a.The site has been designed to be very visually appealing however not distracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
 	
- ###.I want to know what services are on offer.
+ ### I want to know what services are on offer.
 
 a.Once the user uses one of the relevant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
 
@@ -104,7 +104,7 @@ c.Within the footer of each page, there is a mailto link and contact phone numbe
 
 ## Returning Users
 
- ###.I want to see any updated testimonials
+ ### I want to see any updated testimonials
 
 a.These are clearly visible on the home screen of the website.
 
