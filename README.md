@@ -66,7 +66,7 @@ c. I want to be able to contact to book/ contact for another date.
 
 - <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">W3C Markup Validator</a>
 
-- <a href="https://validator.w3.org/" target"_blank">W3c Markup Validator (HTML)</a>
+- <a href="https://validator.w3.org/" target="_blank">W3c Markup Validator (HTML)</a>
 
 ## First Time User
 
