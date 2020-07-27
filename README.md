@@ -7,7 +7,8 @@
 ## UX
 
 This site is for people looking for a DJ for a number of different reasons. What users should be able to achieve by visiting this site is seeing what services the company offers and reassurance from previous customers about how the DJs performed.
-I think my site is the best way for people to achieve what they are looking for because it is clean, easily navigatable and provides enough information that people should be compelled to ask for pricing. I choose the colour screen of white, grey, pink and orange as the pink and orange pops from the screen in contrast to the grey and white drawing the eye to the text. 
+
+I think my site is the best way for people to achieve what they are looking for because it is clean, easily navigatable and provides enough information that people should be compelled to ask for pricing. I chose the colour screen of white, grey, pink and orange as the pink and orange pops from the screen in contrast to the grey and white drawing the eye to the text. 
 
 ## User Stories
 
