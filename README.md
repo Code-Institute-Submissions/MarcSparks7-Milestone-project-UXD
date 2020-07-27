@@ -64,63 +64,62 @@ c. I want to be able to contact to book/ contact for another date.
 
 ## Testing
 
-the W3C validator was used to check for any errors in my css code. Errors were found however they are relating to the fact that I have imported google fonts and could not validate external sources.
-
 - <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">W3C Markup Validator</a>
 
+- <a href="https://validator.w3.org/" target"_blank">W3c Markup Validator (HTML)</a>
 
 ## First Time User
 
 
  ### I want to easily see which sections apply to me.
 
-a.Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built-in hover text drop downs as you scroll over them to understand what the picture represents.
+a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there are 4 images with built-in hover text drop downs as you scroll over them to understand what the picture represents.
 
-b.The main points are easily understood with the images.
+b. The main points are easily understood with the images.
 
-c.The user has two options, either use the navigation bar or click on one of the images.
+c. The user has two options, either use the navigation bar or click on one of the images.
 
  ### I want to be able to navigate through the website easily.
 
-a.The site has been designed to be very visually appealing however not distracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
+a. The site has been designed to be very visually appealing however not distracting. The user can choose to use the navigation bar or the pictures on the home screen to take them to the desired section of the website. 
 	
  ### I want to know what services are on offer.
 
-a.Once the user uses one of the relevant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
+a. Once the user uses one of the relevant links on the Home page, they will be re-directed to a page which breaks down what is offered for each service.
 
-b.Each page should have a small amount of description describing the service for their needs.
+b. Each page should have a small amount of description describing the service for their needs.
 
-c.The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
+c. The user is presented with a HERE link to the contact page so they can ask any further questions or book any dates.
 
  ### I want to be able to see what past users of this company thought of the experience.
 
-a.On the Home Page the user can see previous testimonials from past clients.
+a. On the Home Page the user can see previous testimonials from past clients.
 
  ### I want to know how to contact the business to discuss needs and availability.
  
-a.Within the navigation bar there is a link to the contact page so users can contact the business.
+a. Within the navigation bar there is a link to the contact page so users can contact the business.
 
-b.On each other page of the website, there is a HERE link to bring them to the contact page clearly visible.
+b. On each other page of the website, there is a HERE link to bring them to the contact page clearly visible.
 
-c.Within the footer of each page, there is a mailto link and contact phone number.
+c. Within the footer of each page, there is a mailto link and contact phone number.
 
 ## Returning Users
 
  ### I want to see any updated testimonials
 
-a.These are clearly visible on the home screen of the website.
+a. These are clearly visible on the home screen of the website.
 
  ### I want to be able to leave feedback from my experience with dealing with the company/I want to be able to contact to book/ contact for another date.
 
-a.The navigation bar clearly highlights the "Contact" Page.
+a. The navigation bar clearly highlights the "Contact" Page.
 
-b.Here they can fill out the form on the page and let the company know anything they wish.
+b. Here they can fill out the form on the page and let the company know anything they wish.
 
-c.The footer contains links to Facebook, Twitter and Instagram page as well as the organization's email.
+c. The footer contains links to Facebook, Twitter and Instagram page as well as the organization's email.
 
-d.Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+d. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
-e.The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+e. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
 ## Additional Testing
 
@@ -145,19 +144,22 @@ e.The email button is set up to automatically open up your email app and autofil
 GitHub Pages
 - The project was deployed to GitHub Pages using the following steps...
 
-1.Log in to GitHub and locate the GitHub Repository
+1. Log in to GitHub and locate the GitHub Repository
 
-2.At the top of the Repository (not top of page), locate the "Settings" button on the menu.
+2. At the top of the Repository (not top of page), locate the "Settings" button on the menu.
 
-3.Scroll down the Settings page until you locate the "GitHub Pages" Section.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 
-4.Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
 
-5.The page will automatically refresh.
+5. The page will automatically refresh.
 
-6.Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
+ ### Pushing To GitHub
+ 
 - Committing every few lines of code. 
+
 - Pushing the code to Github at the end of each writing session. 
 
 
