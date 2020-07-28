@@ -51,7 +51,7 @@ c. I want to be able to contact to book/ contact for another date.
 
 ## Technologies Used
 
-### <a href="https://github.com/MarcSparks7/Milestone-project-UXD/blob/master/Wireframe/wireframe-milestone-ux.pdf" target="_blank">Wireframes</a>
+### <a href="https://github.com/MarcSparks7/Milestone-project-UXD/blob/master/Wireframe/wireframe-milestone-ux.pdf" target="_blank">My Wireframes</a>
 - Balsamiq Wireframes.
 
 ### <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
